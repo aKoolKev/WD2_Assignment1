@@ -1,4 +1,4 @@
-#Web Design 2 Assignment 1
+## Web Design 2 Assignment 1
 
 This project is a static website showcasing various Porsche car models, including detailed descriptions and specs for each collection: 718, 911, Taycan, and Macan. The website is built with HTML and styled via external CSS.
 
